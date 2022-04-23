@@ -1,0 +1,11 @@
+D:\Documents\College Docs\6th SEM\dot Net Technology (.NET)\PRACTICALS\Practical_06\bin\Debug\Practical_06.exe.config
+D:\Documents\College Docs\6th SEM\dot Net Technology (.NET)\PRACTICALS\Practical_06\bin\Debug\Practical_06.exe
+D:\Documents\College Docs\6th SEM\dot Net Technology (.NET)\PRACTICALS\Practical_06\bin\Debug\Practical_06.pdb
+D:\Documents\College Docs\6th SEM\dot Net Technology (.NET)\PRACTICALS\Practical_06\obj\Debug\Practical_06.csproj.AssemblyReference.cache
+D:\Documents\College Docs\6th SEM\dot Net Technology (.NET)\PRACTICALS\Practical_06\obj\Debug\Practical_06.csproj.SuggestedBindingRedirects.cache
+D:\Documents\College Docs\6th SEM\dot Net Technology (.NET)\PRACTICALS\Practical_06\obj\Debug\Practical_06.Form1.resources
+D:\Documents\College Docs\6th SEM\dot Net Technology (.NET)\PRACTICALS\Practical_06\obj\Debug\Practical_06.Properties.Resources.resources
+D:\Documents\College Docs\6th SEM\dot Net Technology (.NET)\PRACTICALS\Practical_06\obj\Debug\Practical_06.csproj.GenerateResource.cache
+D:\Documents\College Docs\6th SEM\dot Net Technology (.NET)\PRACTICALS\Practical_06\obj\Debug\Practical_06.csproj.CoreCompileInputs.cache
+D:\Documents\College Docs\6th SEM\dot Net Technology (.NET)\PRACTICALS\Practical_06\obj\Debug\Practical_06.exe
+D:\Documents\College Docs\6th SEM\dot Net Technology (.NET)\PRACTICALS\Practical_06\obj\Debug\Practical_06.pdb
